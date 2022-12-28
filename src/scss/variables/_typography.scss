@@ -2,16 +2,16 @@
 // Typography
 // 
 
-$font-family-sans-serif: "Merriweather Sans", -apple-system, BlinkMacSystemFont,
+$font-family-sans-serif: "arial", -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
-$font-family-serif: "Merriweather", -apple-system, BlinkMacSystemFont,
+$font-family-serif: "Impact", -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
-$font-family-base: $font-family-serif;
+$font-family-base: $font-family-sans-serif;
 
-$headings-font-family: $font-family-sans-serif;
+$headings-font-family: $font-family-serif;
 
 $btn-font-family: $font-family-sans-serif;
