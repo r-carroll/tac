@@ -25,11 +25,7 @@
 
                 &:hover,
                 &:active {
-                    color: $primary;
-                }
-
-                &.active {
-                    color: $primary !important;
+                    color: white;
                 }
                 &--primary {
                     @extend .nav-link;
